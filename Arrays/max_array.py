@@ -1,4 +1,4 @@
-#finding minimum number in an array
+#finding Maximum number in an array
 def max_array(arr):
     max=arr[0]
     for i in arr:
